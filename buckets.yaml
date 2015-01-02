@@ -1,0 +1,65 @@
+"Blog Post Publishing":
+  "Post- Publish":
+    platform:
+      - Drupal
+      - Wordpress
+      - Expression Engine
+      - Other XML-RPC
+      - Tumblr
+      - Hubspot
+      - Adobe CQ
+      - Blogger
+
+"Document Publishing":
+  "Post- Publish":
+    platform:
+      - Slideshare
+      - Box
+      - UberFlip
+      - KapostCloud
+
+"Community Publishing":
+  "Post- Publish":
+    platform:
+      - Jive
+      - Lithium
+
+"Video Publishing":
+  "Post- Publish":
+    platform:
+      - Brightcove
+      - YouTube
+      - Vidyard
+
+"Audio Publishing":
+  "Post- Publish":
+    platform:
+      - Soundcloud
+
+"Webinar Management":
+  "Some Event":
+    body_type:
+      - webinar
+
+"Marketing and Sales Enablement":
+  "Library: Shared via Email":
+  "Library: Shared via Social":
+  "Post- Publish":
+    platform:
+      - Salesforce
+  "Post- Social Media Publish":
+    platform:
+      - Salesforce
+
+"Marketing Automation":
+  "Integration- Added Marketo Asset":
+  "Integration- Created Marketo Asset":
+  "Integration- Added Eloqua Asset":
+  "Integration- Created Eloqua Asset":
+  "Integration- Added Pardot Asset":
+  "Integration- Created Pardot Asset":
+
+#"Event Type":
+#  "Content Completed":
+#    body_type:
+#      - Event

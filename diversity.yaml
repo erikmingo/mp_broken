@@ -1,0 +1,150 @@
+"Blog Post Publishing":
+  "Comment: added, belongs to: Post":
+    Primary Destination:
+      - Drupal
+      - Wordpress
+      - Expression Engine
+      - Other XML-RPC
+      - Tumblr
+      - Hubspot
+      - Adobe CQ
+      - Blogger
+  "Post- Publish":
+    platform:
+      - Drupal
+      - Wordpress
+      - Expression Engine
+      - Other XML-RPC
+      - Tumblr
+      - Hubspot
+      - Adobe CQ
+      - Blogger
+  "Content Task Complete":
+     Primary Destination:
+      - Drupal
+      - Wordpress
+      - Expression Engine
+      - Other XML-RPC
+      - Tumblr
+      - Hubspot
+      - Adobe CQ
+      - Blogger
+
+
+"Document Publishing":
+  "Comment: added, belongs to: Post":
+    Primary Destination:
+      - Slidesahre
+      - Box
+      - UberFlip
+      - KapostCloud
+  "Post- Publish":
+    platform:
+      - Slidesahre
+      - Box
+      - UberFlip
+      - KapostCloud
+  "Content Task Complete":
+    Primary Destination:
+      - Slidesahre
+      - Box
+      - UberFlip
+      - KapostCloud
+
+
+"Community Publishing":
+  "Comment: added, belongs to: Post":
+    Primary Destination:
+      - Jive
+      - Lithium
+  "Post- Publish":
+    platform:
+      - Jive
+      - Lithium
+  "Content Task Complete":
+    Primary Destination:
+      - Jive
+      - Lithium
+  
+
+"Video Publishing":
+  "Comment: added, belongs to: Post":
+    Primary Destination:
+      - Brightcove
+      - YouTube
+      - Vidyard
+  "Post- Publish":
+    platform:
+      - Brightcove
+      - YouTube
+      - Vidyard
+  "Content Task Complete":
+    Primary Destination:
+      - Brightcove
+      - YouTube
+      - Vidyard
+
+
+"Audio Publishing":
+  "Comment: added, belongs to: Post":
+    Primary Destination:
+      - Soundcloud
+  "Post- Publish":
+    platform:
+      - Soundcloud
+  "Content Task Complete":
+    Primary Destination:
+      - Soundcloud
+
+"Webinar Management":
+  "Post- readytalk webinar set":
+  "Comment: added, belongs to: Post":
+    body_type:
+      - webinar
+  "Content Task Complete":
+    body_type:
+      - webinar
+
+"Marketing Automation":
+  "Comment: added, belongs to: Post":
+    Primary Destination:
+      - Marketo E-mail
+      - Marketo Landing Page
+      - Eloqua E-mail
+      - Eloqua Landing Page
+      - Pardot E-mail
+  #STUB MIKES EMAIL
+  "Content Task Complete":
+    Primary Destination:
+      - Marketo E-mail
+      - Marketo Landing Page
+      - Eloqua E-mail
+      - Eloqua Landing Page
+      - Pardot E-mail
+  "Integration- Added Marketo Asset":
+  "Integration- Created Marketo Asset":
+  "Integration- Added Eloqua Asset":
+  "Integration- Created Eloqua Asset":
+  "Integration- Added Pardot Asset":
+  "Integration- Created Pardot Asset":
+
+
+"Marketing & Sales Enablement":
+  "Library: Shared via Email":
+  "Library: Shared via Social":
+
+  "Post- Social Media Publish":
+    platform:
+      - Salesforce
+  "Post- Publish":
+    platform:
+      - Salesforce
+
+
+"Event Management":
+  "Comment: added, belongs to: Post":
+    body_type:
+      - Event
+  "Content Task Complete":
+    body_type:
+     - Event
